@@ -1,0 +1,14 @@
+deepchem
+pandas
+numpy
+matplotlib
+rdkit
+seaborn
+scikit-learn
+datetime
+category_encoders
+imblearn
+PubChemPy
+streamlit
+joblib
+-e .
