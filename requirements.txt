@@ -2,7 +2,7 @@ deepchem
 pandas
 numpy
 matplotlib
-rdkit
+rdkit-pypi
 seaborn
 scikit-learn
 datetime
