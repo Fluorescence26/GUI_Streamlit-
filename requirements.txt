@@ -8,7 +8,6 @@ scikit-learn
 datetime
 category_encoders
 streamlit
-libxrender1
 imblearn
 PubChemPy
 joblib
