@@ -12,4 +12,3 @@ libxrender1
 imblearn
 PubChemPy
 joblib
--e .
