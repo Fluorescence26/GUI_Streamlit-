@@ -11,5 +11,7 @@ streamlit
 imblearn
 PubChemPy
 joblib
+torch
+torchvision
 
 
