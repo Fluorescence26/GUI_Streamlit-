@@ -11,5 +11,5 @@ streamlit
 imblearn
 PubChemPy
 joblib
-libgl1-mesa-glx
+
 
