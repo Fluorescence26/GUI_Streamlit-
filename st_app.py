@@ -7,14 +7,14 @@ import joblib
 import pandas as pd
 
 # Load models
-model_path_fluorescence = "/Users/mdk/Desktop/Fluorescent_compound_prediction_Updated/Fluorescent_compound_prediction/best_models/best_classifier.joblib"
+model_path_fluorescence = "best_classifier.joblib"
 model_fluorescence = joblib.load(model_path_fluorescence)
 
 model_path_regression = "best_models/new_best_regressor.joblib"
 model_regression = joblib.load(model_path_regression)
 
 # Load emission max model
-model_path_emission = "/Users/mdk/Desktop/Fluorescent_compound_prediction_Updated/Fluorescent_compound_prediction/EmissionMax/best_regressor.joblib"
+model_path_emission = "best_regressor.joblib"
 model_emission = joblib.load(model_path_emission)
 
 # Calculate Morgan fingerprints from SMILES string
