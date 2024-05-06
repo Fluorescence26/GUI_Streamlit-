@@ -10,8 +10,8 @@ import pandas as pd
 model_path_fluorescence = "best_classifier.joblib"
 model_fluorescence = joblib.load(model_path_fluorescence)
 
-model_path_regression = "best_regressor.joblib"
-model_regression = joblib.load(model_path_regression)
+#model_path_regression = "new_best_regressor.joblib"
+#model_regression = joblib.load(model_path_regression)
 
 # Load emission max model
 model_path_emission = "best_regressor.joblib"
