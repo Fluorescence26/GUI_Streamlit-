@@ -4,7 +4,7 @@ numpy
 matplotlib
 rdkit-pypi
 seaborn
-scikit-learn
+scikit-learn==1.2.2
 datetime
 category_encoders
 streamlit
